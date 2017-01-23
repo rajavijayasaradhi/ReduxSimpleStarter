@@ -1,5 +1,17 @@
-# ReduxSimpleStarter
+## Youtube Replicate App built using React
 
-Youtube Search App
 
-Remember, after you download/clone the package you'll need to run npm install in the project directory.
+
+### Getting Started ###
+
+1) Download this repo
+2) Navigate to this repo in the terminal
+3) Enter the following commands
+
+```
+	> npm install
+	> npm start
+    
+```
+
+Open browser and goto -> http://localhost:8080/
